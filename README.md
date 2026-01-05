@@ -88,7 +88,7 @@ Metadata handling is configurable via an internal file information dictionary.
 
 - Python **3.9+**
 - Required libraries:
-  ```bash
+```bash
   pip install numpy scipy matplotlib scikit-learn joblib pillow
 ```
 
