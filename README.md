@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1128211027.svg)](https://doi.org/10.5281/zenodo.18184132)
+
 # Predictive Maintenance – Vibration Analysis Tool
 
 A desktop application for **bearing fault analysis and predictive maintenance** using vibration signals.  
